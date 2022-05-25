@@ -1,0 +1,8 @@
+com/example/kotlin/BuildConfig.java
+ com.example.kotlin.BuildConfig
+com/example/kotlin/databinding/PlayNowItemBinding.java
+ com.example.kotlin.databinding.PlayNowItemBinding
+com/example/kotlin/databinding/PeliculasItemBinding.java
+ com.example.kotlin.databinding.PeliculasItemBinding
+com/example/kotlin/databinding/ActivityMainBinding.java
+ com.example.kotlin.databinding.ActivityMainBinding
